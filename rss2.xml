@@ -1,216 +1,265 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title><![CDATA[報導者]]></title>
-    <description><![CDATA[報導者－深入挖掘新聞]]></description>
-    <link>https://www.twreporter.org/</link>
-    <image>
-      <url>https://www.twreporter.org/asset/favicon.png</url>
-      <title>報導者</title>
-      <link>https://www.twreporter.org/</link>
-    </image>
-    <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 16 Dec 2015 11:06:11 GMT</lastBuildDate>
-    <atom:link href="https://www.twreporter.org/i/rss2.xml" rel="self" type="application/rss+xml"/>
-    <copyright><![CDATA[CC BY-NC-ND 3.0]]></copyright>
-    <language><![CDATA[zh-TW]]></language>
-    <item>
-      <title><![CDATA[雷光夏：二十年來，我與女巫店都沒改變]]></title>
-      <description><![CDATA[雷光夏最記憶深刻的青春發生在每天夜晚，為了下班趕到女巫店和河岸留言唱歌，她說：「我白天揹著大大的手風琴到電台上班，放在我椅子後，同事們笑我說這像是金門王在流浪，在走唱」。]]></description>
-      <link>https://www.twreporter.org/a/2015summer-lei</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/2015summer-lei</guid>
-      <dc:creator><![CDATA[採訪、整理／李雪莉、王儀君]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 03:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[那些被休無薪假的人]]></title>
-      <description><![CDATA[在德國，雖有類似無薪假的制度，卻是在有工會組織，勞資雙方實質協議的前提下進行，才得以創造雙贏。但這制度搬到完全沒有相應文化土壤的台灣來，卻成為勞工說不出口的痛。]]></description>
-      <link>https://www.twreporter.org/a/2015unpaid-leave</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/2015unpaid-leave</guid>
-      <dc:creator><![CDATA[文／葉瑜娟　攝影／余志偉]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 03:30:33 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黃哲斌／TPP好吃嗎？]]></title>
-      <description><![CDATA[在這場突梯滑稽、風波不斷、驚喜不足的總統選戰裡，蔡英文及朱立倫無不以「推動加入TPP」為重要政見，雙方都將擠上這張牌桌，視為台灣經濟的萬用常備續命丹。]]></description>
-      <link>https://www.twreporter.org/a/opinion-tpp</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/opinion-tpp</guid>
-      <dc:creator><![CDATA[文／黃哲斌]]></dc:creator>
-      <pubDate>Tue, 15 Dec 2015 21:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[報導者編輯部／為什麼用遊戲做新聞 ]]></title>
-      <link>https://www.twreporter.org/a/opinion-newsgame</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/opinion-newsgame</guid>
-      <dc:creator><![CDATA[文／蔣宜婷　攝影／吳逸驊]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 10:33:07 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[布拉瑞揚　部落裡的兩廳院]]></title>
-      <description><![CDATA[2011年布拉瑞揚站在紐約林肯中心謝幕，鞠躬的那一刻他想的卻是嘉蘭部落的爸媽，「如果有一天，我可以牽著自己舞團孩子的手，在舞台上一起謝幕，該有多好？」如今的他，正踏在實現夢想的路上。]]></description>
-      <link>https://www.twreporter.org/a/2015taitung-bulareyaung</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/2015taitung-bulareyaung</guid>
-      <dc:creator><![CDATA[文／劉致昕（特約）　　攝影／王文彥（特約）　　]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 07:42:49 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[花蓮193縣道的美麗與哀愁]]></title>
-      <description><![CDATA[花蓮版「海角七億」，正在後山悄悄上演。8米寬的193線道北段原是單車客慢速深遊花蓮之美的綠色隧道，但大量的陸客改變它的命運⋯⋯]]></description>
-      <link>https://www.twreporter.org/a/hualien-193</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/hualien-193</guid>
-      <dc:creator><![CDATA[ 文／林子衿（特約）　攝影／王文彥（特約）]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 03:57:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[台灣尚青]]></title>
-      <link>https://www.twreporter.org/a/2016election-photo</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/2016election-photo</guid>
-      <dc:creator><![CDATA[人們總將選舉的目光投向候選人。《報導者》的攝影們這次選擇將鏡頭輻射到選舉空間裡的每一位主角。他們可能是一對對的情人、鍾情選舉的動漫迷，陪伴爸媽到現場熱鬧的孩童；在大大小小的選舉物理空間裡，有五花八門旗幟標語和候選人上台前的凝神準備。未來一個月每日與您分享這個影像策展——「選舉容顏」。]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 03:30:50 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[健保支出近8億拿得回來嗎？]]></title>
-      <description><![CDATA[意外事件發生至今滿半年，有多少人仍在關注？我們針對「傷患統計」、「司法進度」、「制度影響」、「健保墊付」及「善款追蹤」五大面向，整理出最新的現況與進度。]]></description>
-      <link>https://www.twreporter.org/a/20150627explosion-infography</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/20150627explosion-infography</guid>
-      <dc:creator><![CDATA[文／鄭涵文　圖／報導者資料照片]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 01:52:05 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[張翠容／不容忽視的族群偏見]]></title>
-      <description><![CDATA[緬甸大選由翁山蘇姬所領導的政黨大勝，緬甸進行首次政黨輪替。但在一片歡呼聲中，緬甸西部卻有逾百萬穆斯林被剝奪投票權、關在集中營裡，叫天不應，叫地不聞。]]></description>
-      <link>https://www.twreporter.org/a/chang-groups-bias</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/chang-groups-bias</guid>
-      <dc:creator><![CDATA[文／張翠容]]></dc:creator>
-      <pubDate>Tue, 15 Dec 2015 21:19:14 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[921地震後最嚴重傷亡　台灣記取了哪些教訓？]]></title>
-      <description><![CDATA[八仙塵爆造成近500人死傷，是台灣繼921大地震以來受傷人數多的意外事故。台灣該從這場爆炸中學到什麼？如果再發生大量傷患事件，醫療系統準備好了嗎？司法究責與賠償官司的進度又到了哪裡？]]></description>
-      <link>https://www.twreporter.org/a/20150627explosion-content</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/20150627explosion-content</guid>
-      <dc:creator><![CDATA[文／鄭涵文　　圖／報導者資料照片]]></dc:creator>
-      <pubDate>Tue, 15 Dec 2015 06:20:26 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[我住在全國最大污染場址旁]]></title>
-      <description><![CDATA[很少人知道，中油高雄煉油廠已是全國最大土壤污染控制場址。五輕運作了25年，高雄煉油廠關廠後，中油卻必須耗費100億元公帑，長達二、三十年時間，才可能完成整治。]]></description>
-      <link>https://www.twreporter.org/a/refinery-air-pollution </link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/refinery-air-pollution </guid>
-      <dc:creator><![CDATA[文／陳怡樺（特約）、何榮幸 　攝影／余志偉、林聰勝（特約）]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 07:03:56 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[卞中佩／鄉勇式正義　美國槍枝管制問題變內耗]]></title>
-      <description><![CDATA[美國的槍枝暴力問題之嚴重，已經到了有哪天沒有發生大規模死傷的槍擊事件才是新聞的地步。但多年來槍枝管制問題一直無法獲得解決，一切源自於美國社會的鄉勇式私刑正義（vigilante justice）傳統。]]></description>
-      <link>https://www.twreporter.org/a/torrent-gun-violence</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/torrent-gun-violence</guid>
-      <dc:creator><![CDATA[文／卞中佩]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 09:46:46 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[胡慕情／愛你的怪物]]></title>
-      <description><![CDATA[地球不再美麗，它已成為一頭反噬我們的怪物。但我們必須愛這頭怪物，不如此，創傷無有意義。是的，必須如此：不自憐、不隱瞞，愛你的怪物，共同生活才有微薄的，微薄的一點基礎。  ]]></description>
-      <link>https://www.twreporter.org/a/muhchyng-climate</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/muhchyng-climate</guid>
-      <dc:creator><![CDATA[文／胡慕情 攝影／林佑恩]]></dc:creator>
-      <pubDate>Tue, 15 Dec 2015 21:16:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[鍾博宇：我下一個目標是手能碰到肩膀]]></title>
-      <description><![CDATA[21歲的鍾博宇是八仙塵爆受害者之一，全身70％燒傷擴及臉及四肢。為重回生活正軌，他穿上僅露出雙眼和嘴唇的壓力衣，咬牙復健。]]></description>
-      <link>https://www.twreporter.org/a/20150627explosion-rehabilitation</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/20150627explosion-rehabilitation</guid>
-      <dc:creator><![CDATA[文／鄭涵文]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 03:58:05 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[台灣能從500個傷亡故事學到什麼？]]></title>
-      <description><![CDATA[2015年6月27日八仙塵爆造成上百死傷。這個921地震以來，傷亡人數最多的意外事件已發生半年，台灣該學到什麼教訓？]]></description>
-      <link>https://www.twreporter.org/a/20150627explosion-3questions</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/20150627explosion-3questions</guid>
-      <dc:creator><![CDATA[文／鄭涵文　　圖／報導者資料照片]]></dc:creator>
-      <pubDate>Tue, 15 Dec 2015 06:56:03 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[「如果我是急診醫師」　報導者第一檔新聞遊戲]]></title>
-      <description><![CDATA[「急診人生」是一款富含真實情境的經典急診室經營夢幻之作，為台灣第一個急診室新聞遊戲。在體驗殘酷急診室人生的旅途中，你將感受前所未有的震撼。]]></description>
-      <link>https://www.twreporter.org/a/newsgame-emergency</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/newsgame-emergency</guid>
-      <dc:creator><![CDATA[文／陳貞樺]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 06:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[急診醫療「急救中」　誰癱瘓了急診室？]]></title>
-      <description><![CDATA[類似台大醫院的醫學中心級醫院，常會出現在急診室等病床超過一個禮拜的離譜狀況，但某些區域小型醫院的急診室卻根本沒有人。什麼原因造成各醫院急診人數相差這麼懸殊？]]></description>
-      <link>https://www.twreporter.org/a/emergencyroom</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/emergencyroom</guid>
-      <dc:creator><![CDATA[文／陳貞樺]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 03:55:01 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[鳳梨農的賭局，兩場總統大選定輸贏]]></title>
-      <description><![CDATA[台灣鳳梨外銷至各個國家的出口量皆呈現萎縮，唯一大幅成長的市場是中國，而且95%的外銷量集中在中國市場。當中，有多少是政治驅動的訂單？這場與天對賭的賭局，農民真能開出贏局嗎？]]></description>
-      <link>https://www.twreporter.org/a/pineapple-taiwan</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/pineapple-taiwan</guid>
-      <dc:creator><![CDATA[文／簡永達　　攝影／吳逸驊]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 09:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[舉牌人朝不保夕的勞動真相]]></title>
-      <description><![CDATA[2015年7月中旬，我借用朋友的身分證前往聯合派報社應徵「舉牌人」的工作，展開2個月的化身採訪，總共有6個週末站在台北市內湖區大潤發附近的路口。]]></description>
-      <link>https://www.twreporter.org/a/2015-brand-life</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/2015-brand-life</guid>
-      <dc:creator><![CDATA[文／王立柔　　攝影／余志偉　　封面照片／吳逸驊]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 05:45:19 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[急診室崩壞　你必須知道的台灣醫療困境]]></title>
-      <description><![CDATA[「如果你沒看過難民營，那就來急診室走一遭吧。」八仙塵爆已近半年，當時電視畫面瘋狂轉送急診室的畫面－擁擠的病床上、哀號的病人、奔跑的醫護人員、心急如焚的家屬們，宛如難民營般的景象彷彿還歷歷在目，你還記得嗎？  ]]></description>
-      <link>https://www.twreporter.org/a/emergency-content</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/emergency-content</guid>
-      <dc:creator><![CDATA[文字／陳貞樺，遊戲製作團隊／吳泰輝、吳政達、陳貞樺、蔣宜婷，攝影／余志偉、吳逸驊]]></dc:creator>
-      <pubDate>Tue, 15 Dec 2015 13:24:24 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[急診被當健診使用　爆肝成了常態]]></title>
-      <description><![CDATA[在急診人力越來越不足的情況下，或許我們該從急診醫師的日常生活，認真審視，是什麼原因讓他們不願意前往第一線？當我們少了這些第一線的醫療勇士，我們的醫療環境會變成什麼樣子呢？]]></description>
-      <link>https://www.twreporter.org/a/daily-emergency</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/daily-emergency</guid>
-      <dc:creator><![CDATA[文／陳貞樺]]></dc:creator>
-      <pubDate>Tue, 15 Dec 2015 06:59:38 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[吳明益／自私的道路]]></title>
-      <description><![CDATA[七星潭當然是整個花蓮居民、台灣民眾的重要公共財，它不該被短暫的觀光利益剝削。拓寬道路，當然能容納更多的進入人口和交通流量，卻未必能解決壅塞的問題。]]></description>
-      <link>https://www.twreporter.org/a/hualien-wumingyi</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/hualien-wumingyi</guid>
-      <dc:creator><![CDATA[文／吳明益]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 01:36:25 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[鍾宜杰／紀實攝影是我們這時代的新使命]]></title>
-      <description><![CDATA[台灣社會需要、也正在進入另一次的社會啟蒙；這不僅是一項社會運動，也是一項媒體改革運動。需要更多有志之士投入，讓新聞報導者重獲尊嚴，也重新拾起啟蒙公眾、揭發階級剝削與黑暗的任務。]]></description>
-      <link>https://www.twreporter.org/a/documentary-photo-mission</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/documentary-photo-mission</guid>
-      <dc:creator><![CDATA[文、攝影／鍾宜杰]]></dc:creator>
-      <pubDate>Tue, 15 Dec 2015 07:48:48 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[張娟芬／司法的陽光從何而來？]]></title>
-      <description><![CDATA[司法不應該畏懼陽光。司法的陽光應該從即時筆錄做起，這不起眼的速記員，最後會發揮的功用就跟最耿直最有膽識的史官一樣，他會寫：「崔杼弒其君」。]]></description>
-      <link>https://www.twreporter.org/a/opinion-justice</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/opinion-justice</guid>
-      <dc:creator><![CDATA[文／張娟芬]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 03:48:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[那些年我們戀過的女巫店]]></title>
-      <description><![CDATA[20年前，女巫店的主人和客人們，大概沒有預料到，曾在這裡洗盤子的張懸、在這裡初試啼聲的青峰，會成為年輕人喜愛的創作歌手；沒意料到陳綺貞、雷光夏、陳珊妮、魏如萱、巴奈的好聲音，開始被聽見、被追隨。]]></description>
-      <link>https://www.twreporter.org/a/2015witch-house</link>
-      <guid isPermaLink="true">https://www.twreporter.org/a/2015witch-house</guid>
-      <dc:creator><![CDATA[文／陳佳汝（特約）　　攝影／林冠良（特約）]]></dc:creator>
-      <pubDate>Wed, 16 Dec 2015 10:59:42 GMT</pubDate>
-    </item>
-  </channel>
+
+<rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+>
+
+<channel>
+<title>&#x5831;&#x5C0E;&#x8005;</title>
+<link>https://www.twreporter.org/</link>
+<description>&#x5831;&#x5C0E;&#x8005;&#xFF0D;&#x6DF1;&#x5165;&#x6316;&#x6398;&#x65B0;&#x805E;</description>
+<language>zh-TW</language>
+<copyright>CC BY-NC-ND 3.0</copyright>
+
+<image>
+<title>&#x5831;&#x5C0E;&#x8005;</title>
+<url>https://www.twreporter.org/asset/favicon.png</url>
+<link>https://www.twreporter.org/</link>
+</image>
+<item>
+<title>&#x90A3;&#x4E9B;&#x88AB;&#x4F11;&#x7121;&#x85AA;&#x5047;&#x7684;&#x4EBA;</title>
+<link>https://www.twreporter.org/a/2015unpaid-leave</link>
+<description>&#x5728;&#x5FB7;&#x570B;&#xFF0C;&#x96D6;&#x6709;&#x985E;&#x4F3C;&#x7121;&#x85AA;&#x5047;&#x7684;&#x5236;&#x5EA6;&#xFF0C;&#x537B;&#x662F;&#x5728;&#x6709;&#x5DE5;&#x6703;&#x7D44;&#x7E54;&#xFF0C;&#x52DE;&#x8CC7;&#x96D9;&#x65B9;&#x5BE6;&#x8CEA;&#x5354;&#x8B70;&#x7684;&#x524D;&#x63D0;&#x4E0B;&#x9032;&#x884C;&#xFF0C;&#x624D;&#x5F97;&#x4EE5;&#x5275;&#x9020;&#x96D9;&#x8D0F;&#x3002;&#x4F46;&#x9019;&#x5236;&#x5EA6;&#x642C;&#x5230;&#x5B8C;&#x5168;&#x6C92;&#x6709;&#x76F8;&#x61C9;&#x6587;&#x5316;&#x571F;&#x58E4;&#x7684;&#x53F0;&#x7063;&#x4F86;&#xFF0C;&#x537B;&#x6210;&#x70BA;&#x52DE;&#x5DE5;&#x8AAA;&#x4E0D;&#x51FA;&#x53E3;&#x7684;&#x75DB;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/2015unpaid-leave</guid>
+<pubDate>Sat, 19 Dec 2015 01:51:27 +0800</pubDate>
+</item>
+<item>
+<title>&#x67EF;&#x6587;&#x54F2;&#xFF1A;&#x6211;&#x5011;&#x6B20;&#x7F3A;&#x570B;&#x5BB6;&#x7D1A;&#x6AA2;&#x8A0E;&#x5831;&#x544A;</title>
+<link>https://www.twreporter.org/a/20150627explosion-kpopinion</link>
+<description>&#x300C;&#x516B;&#x4ED9;&#x4E8B;&#x4EF6;&#x5F8C;&#xFF0C;&#x653F;&#x5E9C;&#x8207;&#x91AB;&#x7642;&#x7684;&#x8655;&#x7406;&#xFF0C;&#x4F60;&#x6253;&#x5E7E;&#x5206;&#xFF1F;&#x300D;&#x53F0;&#x5317;&#x5E02;&#x9577;&#x67EF;&#x6587;&#x54F2;&#x8A8D;&#x70BA;&#xFF0C;&#x6C92;&#x9047;&#x904E;&#x7684;&#x4E8B;&#x60C5;&#x4E0D;&#x53EF;&#x80FD;&#x505A;&#x597D;&#xFF0C;&#x6240;&#x4EE5;&#x4E0D;&#x6253;&#x5206;&#x6578;&#x3002;&#x4F46;&#x662F;&#x82E5;&#x4E0B;&#x4E00;&#x6B21;&#x518D;&#x767C;&#x751F;&#x985E;&#x4F3C;&#x7684;&#x4E8B;&#x4EF6;&#x5462;&#xFF1F;&#x67EF;&#x6587;&#x54F2;&#x8AAA;&#xFF0E;&#xFF0E;&#xFF0E;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/20150627explosion-kpopinion</guid>
+<pubDate>Sat, 19 Dec 2015 00:26:07 +0800</pubDate>
+</item>
+<item>
+<title>&#x90ED;&#x529B;&#x6615;&#xFF0F;&#x8AB0;&#x627C;&#x6BBA;&#x4E86;&#x53F0;&#x7063;&#x96FB;&#x5F71;</title>
+<link>https://www.twreporter.org/a/opinion-taipei-film-festival</link>
+<description></description>
+<guid isPermaLink="true">https://www.twreporter.org/a/opinion-taipei-film-festival</guid>
+<pubDate>Fri, 18 Dec 2015 22:55:58 +0800</pubDate>
+</item>
+<item>
+<title>&#x53F0;&#x7063;&#x5C1A;&#x9752;</title>
+<link>https://www.twreporter.org/a/2016election-photo</link>
+<description></description>
+<guid isPermaLink="true">https://www.twreporter.org/a/2016election-photo</guid>
+<pubDate>Fri, 18 Dec 2015 22:25:46 +0800</pubDate>
+</item>
+<item>
+<title>&#x9673;&#x7FBD;&#x8431;&#xFF0F;&#x7528;14&#x53F0;GoPro&#x62CD;&#x51FA;&#x5168;&#x7403;&#x9996;&#x652F;&#x865B;&#x64EC;&#x5BE6;&#x5883;&#x7D00;&#x9304;&#x7247;</title>
+<link>https://www.twreporter.org/a/opinion-14go-pro</link>
+<description></description>
+<guid isPermaLink="true">https://www.twreporter.org/a/opinion-14go-pro</guid>
+<pubDate>Fri, 18 Dec 2015 21:04:19 +0800</pubDate>
+</item>
+<item>
+<title>&#x5468;&#x6F84;&#xFF0F;&#x70BA;&#x4F55;&#x6C92;&#x6709;&#x300C;&#x5BE6;&#x6548;&#x300D;&#x7684;&#x5DF4;&#x9ECE;&#x6C23;&#x5019;&#x5354;&#x8B70;&#x4ECD;&#x662F;&#x4E00;&#x5927;&#x9032;&#x6B65;&#xFF1F;</title>
+<link>https://www.twreporter.org/a/opinion-cop21</link>
+<description></description>
+<guid isPermaLink="true">https://www.twreporter.org/a/opinion-cop21</guid>
+<pubDate>Fri, 18 Dec 2015 20:47:27 +0800</pubDate>
+</item>
+<item>
+<title>&#x4F55;&#x660E;&#x4FEE;&#xFF0F;2016&#x5927;&#x9078;&#x2500;&#x2500;&#x5F9E;&#x7368;&#x7D71;&#x5230;&#x5DE6;&#x53F3;</title>
+<link>https://www.twreporter.org/a/opinion-2016election</link>
+<description>&#x5373;&#x5C07;&#x5230;&#x4F86;&#x7684;&#x7E3D;&#x7D71;&#x8207;&#x7ACB;&#x59D4;&#x9078;&#x8209;&#xFF0C;&#x662F;&#x53F0;&#x7063;&#x89E3;&#x56B4;&#x4EE5;&#x4F86;&#x6700;&#x51B7;&#x6E05;&#x7684;&#x4E00;&#x5834;&#x5168;&#x570B;&#x6027;&#x5927;&#x9078;&#x3002;&#x5982;&#x679C;&#x6C92;&#x6709;&#x610F;&#x5916;&#x7A81;&#x767C;&#x72C0;&#x614B;&#xFF0C;&#x8521;&#x82F1;&#x6587;&#x6240;&#x5E36;&#x9818;&#x7684;&#x6C11;&#x9032;&#x9EE8;&#x975E;&#x5E38;&#x6709;&#x53EF;&#x80FD;&#x53D6;&#x5F97;&#x7E3D;&#x7D71;&#x5927;&#x4F4D;&#xFF0C;&#x4E26;&#x55AE;&#x7368;&#x53D6;&#x5F97;&#x570B;&#x6703;&#x904E;&#x534A;&#x7684;&#x512A;&#x52E2;&#x3002;&#x9664;&#x4E86;&#x89C0;&#x5BDF;&#x85CD;&#x7DA0;&#x9663;&#x71DF;&#x7684;&#x653F;&#x6CBB;&#x52E2;&#x529B;&#x6D88;&#x9577;&#x4E4B;&#x5916;&#xFF0C;&#x5F9E;&#x7D71;&#x7368;&#x3001;&#x5DE6;&#x53F3;&#x4F86;&#x89E3;&#x8B80;2016&#x5927;&#x9078;&#x6216;&#x8A31;&#x770B;&#x51FA;&#x4E0D;&#x540C;&#x7684;&#x7AEF;&#x502A;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/opinion-2016election</guid>
+<pubDate>Fri, 18 Dec 2015 20:45:18 +0800</pubDate>
+</item>
+<item>
+<title>&#x90A3;&#x4E9B;&#x5E74;&#x6211;&#x5011;&#x6200;&#x904E;&#x7684;&#x5973;&#x5DEB;&#x5E97;</title>
+<link>https://www.twreporter.org/a/2015witch-house</link>
+<description>20&#x5E74;&#x524D;&#xFF0C;&#x5973;&#x5DEB;&#x5E97;&#x7684;&#x4E3B;&#x4EBA;&#x548C;&#x5BA2;&#x4EBA;&#x5011;&#xFF0C;&#x5927;&#x6982;&#x6C92;&#x6709;&#x9810;&#x6599;&#x5230;&#xFF0C;&#x66FE;&#x5728;&#x9019;&#x88E1;&#x6D17;&#x76E4;&#x5B50;&#x7684;&#x5F35;&#x61F8;&#x3001;&#x5728;&#x9019;&#x88E1;&#x521D;&#x8A66;&#x557C;&#x8072;&#x7684;&#x9752;&#x5CF0;&#xFF0C;&#x6703;&#x6210;&#x70BA;&#x5E74;&#x8F15;&#x4EBA;&#x559C;&#x611B;&#x7684;&#x5275;&#x4F5C;&#x6B4C;&#x624B;&#xFF1B;&#x6C92;&#x610F;&#x6599;&#x5230;&#x9673;&#x7DBA;&#x8C9E;&#x3001;&#x96F7;&#x5149;&#x590F;&#x3001;&#x9673;&#x73CA;&#x59AE;&#x3001;&#x9B4F;&#x5982;&#x8431;&#x3001;&#x5DF4;&#x5948;&#x7684;&#x597D;&#x8072;&#x97F3;&#xFF0C;&#x958B;&#x59CB;&#x88AB;&#x807D;&#x898B;&#x3001;&#x88AB;&#x8FFD;&#x96A8;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/2015witch-house</guid>
+<pubDate>Fri, 18 Dec 2015 18:54:08 +0800</pubDate>
+</item>
+<item>
+<title>&#x5065;&#x4FDD;&#x652F;&#x51FA;&#x8FD1;8&#x5104;&#x62FF;&#x5F97;&#x56DE;&#x4F86;&#x55CE;&#xFF1F;</title>
+<link>https://www.twreporter.org/a/20150627explosion-infography</link>
+<description>&#x610F;&#x5916;&#x4E8B;&#x4EF6;&#x767C;&#x751F;&#x81F3;&#x4ECA;&#x6EFF;&#x534A;&#x5E74;&#xFF0C;&#x6709;&#x591A;&#x5C11;&#x4EBA;&#x4ECD;&#x5728;&#x95DC;&#x6CE8;&#xFF1F;&#x6211;&#x5011;&#x91DD;&#x5C0D;&#x300C;&#x50B7;&#x60A3;&#x7D71;&#x8A08;&#x300D;&#x3001;&#x300C;&#x53F8;&#x6CD5;&#x9032;&#x5EA6;&#x300D;&#x3001;&#x300C;&#x5236;&#x5EA6;&#x5F71;&#x97FF;&#x300D;&#x3001;&#x300C;&#x5065;&#x4FDD;&#x588A;&#x4ED8;&#x300D;&#x53CA;&#x300C;&#x5584;&#x6B3E;&#x8FFD;&#x8E64;&#x300D;&#x4E94;&#x5927;&#x9762;&#x5411;&#xFF0C;&#x6574;&#x7406;&#x51FA;&#x6700;&#x65B0;&#x7684;&#x73FE;&#x6CC1;&#x8207;&#x9032;&#x5EA6;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/20150627explosion-infography</guid>
+<pubDate>Fri, 18 Dec 2015 17:48:13 +0800</pubDate>
+</item>
+<item>
+<title>921&#x5730;&#x9707;&#x5F8C;&#x6700;&#x56B4;&#x91CD;&#x50B7;&#x4EA1;&#x3000;&#x53F0;&#x7063;&#x8A18;&#x53D6;&#x4E86;&#x54EA;&#x4E9B;&#x6559;&#x8A13;&#xFF1F;</title>
+<link>https://www.twreporter.org/a/20150627explosion-content</link>
+<description>&#x516B;&#x4ED9;&#x5875;&#x7206;&#x9020;&#x6210;&#x8FD1;500&#x4EBA;&#x6B7B;&#x50B7;&#xFF0C;&#x662F;&#x53F0;&#x7063;&#x7E7C;921&#x5927;&#x5730;&#x9707;&#x4EE5;&#x4F86;&#x53D7;&#x50B7;&#x4EBA;&#x6578;&#x591A;&#x7684;&#x610F;&#x5916;&#x4E8B;&#x6545;&#x3002;&#x53F0;&#x7063;&#x8A72;&#x5F9E;&#x9019;&#x5834;&#x7206;&#x70B8;&#x4E2D;&#x5B78;&#x5230;&#x4EC0;&#x9EBC;&#xFF1F;&#x5982;&#x679C;&#x518D;&#x767C;&#x751F;&#x5927;&#x91CF;&#x50B7;&#x60A3;&#x4E8B;&#x4EF6;&#xFF0C;&#x91AB;&#x7642;&#x7CFB;&#x7D71;&#x6E96;&#x5099;&#x597D;&#x4E86;&#x55CE;&#xFF1F;&#x53F8;&#x6CD5;&#x7A76;&#x8CAC;&#x8207;&#x8CE0;&#x511F;&#x5B98;&#x53F8;&#x7684;&#x9032;&#x5EA6;&#x53C8;&#x5230;&#x4E86;&#x54EA;&#x88E1;&#xFF1F;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/20150627explosion-content</guid>
+<pubDate>Fri, 18 Dec 2015 17:10:19 +0800</pubDate>
+</item>
+<item>
+<title>&#x51F1;&#x65AF;&#xFF0E;&#x6851;&#x601D;&#x6C40;&#xFF0F;&#x53F0;&#x7063;&#x8106;&#x5F31;&#x7684;&#x6210;&#x529F;&#x4E4B;&#x8DEF;</title>
+<link>https://www.twreporter.org/a/opinion-sunstein</link>
+<description></description>
+<guid isPermaLink="true">https://www.twreporter.org/a/opinion-sunstein</guid>
+<pubDate>Fri, 18 Dec 2015 17:02:15 +0800</pubDate>
+</item>
+<item>
+<title>&#x8212;&#x7C73;&#x6069;&#x3000;&#x90FD;&#x862D;&#x88E1;&#x7684;&#x5C0F;&#x5DE8;&#x86CB;</title>
+<link>https://www.twreporter.org/a/2015taitung-suming</link>
+<description>&#x53F0;&#x6771;&#x90FD;&#x862D;&#x6B63;&#x5C0F;&#x5FC3;&#x7FFC;&#x7FFC;&#x7684;&#x5728;&#x89C0;&#x5149;&#x71B1;&#x5EA6;&#x4E0B;&#xFF0C;&#x8E0F;&#x5BE6;&#x7684;&#x7559;&#x4E0B;&#x6587;&#x5316;&#x7684;&#x6839;&#xFF0C;&#x4F46;&#x80FD;&#x4E0D;&#x80FD;&#x5B88;&#x4F4F;&#x571F;&#x5730;&#x8B93;&#x300C;&#x77E5;&#x8B58;&#x7522;&#x696D;&#x300D;&#x771F;&#x6B63;&#x6D3B;&#x8D77;&#x4F86;&#xFF1F;&#x7531;Suming&#x8B5C;&#x66F2;&#x3001;Suming&#x7238;&#x7238;&#x4EE5;&#x6BCD;&#x8A9E;&#x586B;&#x8A5E;&#xFF0C;&#x5F97;&#x5230;&#x91D1;&#x99AC;&#x734E;&#x300C;&#x6700;&#x4F73;&#x539F;&#x5275;&#x6B4C;&#x66F2;&#x300D;&#x7684;&#x4F5C;&#x54C1;&#xFF0C;&#x5C31;&#x662F;&#x7B54;&#x6848;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/2015taitung-suming</guid>
+<pubDate>Fri, 18 Dec 2015 14:49:11 +0800</pubDate>
+</item>
+<item>
+<title>&#x6025;&#x8A3A;&#x91AB;&#x7642;&#x300C;&#x6025;&#x6551;&#x4E2D;&#x300D;&#x3000;&#x8AB0;&#x7671;&#x7613;&#x4E86;&#x6025;&#x8A3A;&#x5BA4;&#xFF1F;</title>
+<link>https://www.twreporter.org/a/emergencyroom</link>
+<description>&#x985E;&#x4F3C;&#x53F0;&#x5927;&#x91AB;&#x9662;&#x7684;&#x91AB;&#x5B78;&#x4E2D;&#x5FC3;&#x7D1A;&#x91AB;&#x9662;&#xFF0C;&#x5E38;&#x6703;&#x51FA;&#x73FE;&#x5728;&#x6025;&#x8A3A;&#x5BA4;&#x7B49;&#x75C5;&#x5E8A;&#x8D85;&#x904E;&#x4E00;&#x500B;&#x79AE;&#x62DC;&#x7684;&#x96E2;&#x8B5C;&#x72C0;&#x6CC1;&#xFF0C;&#x4F46;&#x67D0;&#x4E9B;&#x5340;&#x57DF;&#x5C0F;&#x578B;&#x91AB;&#x9662;&#x7684;&#x6025;&#x8A3A;&#x5BA4;&#x537B;&#x6839;&#x672C;&#x6C92;&#x6709;&#x4EBA;&#x3002;&#x4EC0;&#x9EBC;&#x539F;&#x56E0;&#x9020;&#x6210;&#x5404;&#x91AB;&#x9662;&#x6025;&#x8A3A;&#x4EBA;&#x6578;&#x76F8;&#x5DEE;&#x9019;&#x9EBC;&#x61F8;&#x6B8A;&#xFF1F;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/emergencyroom</guid>
+<pubDate>Fri, 18 Dec 2015 12:22:58 +0800</pubDate>
+</item>
+<item>
+<title>&#x6797;&#x6DD1;&#x73B2;&#x3000;&#x7F8A;&#x7530;&#x7A3B;&#x7C73;&#x7684;&#x6297;&#x722D;&#x6ECB;&#x5473;</title>
+<link>https://www.twreporter.org/a/2015taitung-lingshuling</link>
+<description>&#x6797;&#x6DD1;&#x73B2;&#x7684;&#x540D;&#x5B57;&#x65E9;&#x5DF2;&#x8207;&#x53CD;&#x7F8E;&#x9E97;&#x7063;&#x5283;&#x4E0A;&#x7B49;&#x865F;&#x3002;&#x7F8E;&#x9E97;&#x7063;&#x958B;&#x767C;&#x6848;&#x9032;&#x5165;&#x7B2C;11&#x5E74;&#x3001;&#x7E23;&#x5E9C;4&#x6B21;&#x6557;&#x8A34;&#xFF0C;&#x4E00;&#x6B21;&#x4E00;&#x6B21;&#x5224;&#x6C7A;&#x90FD;&#x7AD9;&#x5728;&#x6797;&#x6DD1;&#x73B2;&#x9019;&#x908A;&#xFF0C;&#x5373;&#x4FBF;&#x8DDF;&#x6751;&#x5B50;&#x88E1;&#x7684;&#x95DC;&#x4FC2;&#x7DCA;&#x5F35;&#xFF0C;&#x4F46;&#x5979;&#x4ECD;&#x6C92;&#x6709;&#x9000;&#x7E2E;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/2015taitung-lingshuling</guid>
+<pubDate>Fri, 18 Dec 2015 11:40:56 +0800</pubDate>
+</item>
+<item>
+<title>&#x53F0;&#x7063;&#x80FD;&#x5F9E;500&#x500B;&#x50B7;&#x4EA1;&#x6545;&#x4E8B;&#x5B78;&#x5230;&#x4EC0;&#x9EBC;&#xFF1F;</title>
+<link>https://www.twreporter.org/a/20150627explosion-3questions</link>
+<description>2015&#x5E74;6&#x6708;27&#x65E5;&#x516B;&#x4ED9;&#x5875;&#x7206;&#x9020;&#x6210;&#x4E0A;&#x767E;&#x6B7B;&#x50B7;&#x3002;&#x9019;&#x500B;921&#x5730;&#x9707;&#x4EE5;&#x4F86;&#xFF0C;&#x50B7;&#x4EA1;&#x4EBA;&#x6578;&#x6700;&#x591A;&#x7684;&#x610F;&#x5916;&#x4E8B;&#x4EF6;&#x5DF2;&#x767C;&#x751F;&#x534A;&#x5E74;&#xFF0C;&#x53F0;&#x7063;&#x8A72;&#x5B78;&#x5230;&#x4EC0;&#x9EBC;&#x6559;&#x8A13;&#xFF1F;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/20150627explosion-3questions</guid>
+<pubDate>Fri, 18 Dec 2015 10:42:45 +0800</pubDate>
+</item>
+<item>
+<title>&#x300C;&#x5982;&#x679C;&#x6211;&#x662F;&#x6025;&#x8A3A;&#x91AB;&#x5E2B;&#x300D;&#x3000;&#x5831;&#x5C0E;&#x8005;&#x7B2C;&#x4E00;&#x6A94;&#x65B0;&#x805E;&#x904A;&#x6232;</title>
+<link>https://www.twreporter.org/a/newsgame-emergency</link>
+<description>&#x300C;&#x6025;&#x8A3A;&#x4EBA;&#x751F;&#x300D;&#x662F;&#x4E00;&#x6B3E;&#x5BCC;&#x542B;&#x771F;&#x5BE6;&#x60C5;&#x5883;&#x7684;&#x7D93;&#x5178;&#x6025;&#x8A3A;&#x5BA4;&#x7D93;&#x71DF;&#x5922;&#x5E7B;&#x4E4B;&#x4F5C;&#xFF0C;&#x70BA;&#x53F0;&#x7063;&#x7B2C;&#x4E00;&#x500B;&#x6025;&#x8A3A;&#x5BA4;&#x65B0;&#x805E;&#x904A;&#x6232;&#x3002;&#x5728;&#x9AD4;&#x9A57;&#x6B98;&#x9177;&#x6025;&#x8A3A;&#x5BA4;&#x4EBA;&#x751F;&#x7684;&#x65C5;&#x9014;&#x4E2D;&#xFF0C;&#x4F60;&#x5C07;&#x611F;&#x53D7;&#x524D;&#x6240;&#x672A;&#x6709;&#x7684;&#x9707;&#x64BC;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/newsgame-emergency</guid>
+<pubDate>Fri, 18 Dec 2015 10:42:39 +0800</pubDate>
+</item>
+<item>
+<title>&#x82B1;&#x84EE;193&#x7E23;&#x9053;&#x7684;&#x7F8E;&#x9E97;&#x8207;&#x54C0;&#x6101;</title>
+<link>https://www.twreporter.org/a/hualien-193</link>
+<description>&#x82B1;&#x84EE;&#x7248;&#x300C;&#x6D77;&#x89D2;&#x4E03;&#x5104;&#x300D;&#xFF0C;&#x6B63;&#x5728;&#x5F8C;&#x5C71;&#x6084;&#x6084;&#x4E0A;&#x6F14;&#x3002;8&#x7C73;&#x5BEC;&#x7684;193&#x7DDA;&#x9053;&#x5317;&#x6BB5;&#x539F;&#x662F;&#x55AE;&#x8ECA;&#x5BA2;&#x6162;&#x901F;&#x6DF1;&#x904A;&#x82B1;&#x84EE;&#x4E4B;&#x7F8E;&#x7684;&#x7DA0;&#x8272;&#x96A7;&#x9053;&#xFF0C;&#x4F46;&#x5927;&#x91CF;&#x7684;&#x9678;&#x5BA2;&#x6539;&#x8B8A;&#x5B83;&#x7684;&#x547D;&#x904B;&#x22EF;&#x22EF;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/hualien-193</guid>
+<pubDate>Thu, 17 Dec 2015 19:05:40 +0800</pubDate>
+</item>
+<item>
+<title>&#x5E03;&#x62C9;&#x745E;&#x63DA;&#x3000;&#x90E8;&#x843D;&#x88E1;&#x7684;&#x5169;&#x5EF3;&#x9662;</title>
+<link>https://www.twreporter.org/a/2015taitung-bulareyaung</link>
+<description>2011&#x5E74;&#x5E03;&#x62C9;&#x745E;&#x63DA;&#x7AD9;&#x5728;&#x7D10;&#x7D04;&#x6797;&#x80AF;&#x4E2D;&#x5FC3;&#x8B1D;&#x5E55;&#xFF0C;&#x97A0;&#x8EAC;&#x7684;&#x90A3;&#x4E00;&#x523B;&#x4ED6;&#x60F3;&#x7684;&#x537B;&#x662F;&#x5609;&#x862D;&#x90E8;&#x843D;&#x7684;&#x7238;&#x5ABD;&#xFF0C;&#x300C;&#x5982;&#x679C;&#x6709;&#x4E00;&#x5929;&#xFF0C;&#x6211;&#x53EF;&#x4EE5;&#x727D;&#x8457;&#x81EA;&#x5DF1;&#x821E;&#x5718;&#x5B69;&#x5B50;&#x7684;&#x624B;&#xFF0C;&#x5728;&#x821E;&#x53F0;&#x4E0A;&#x4E00;&#x8D77;&#x8B1D;&#x5E55;&#xFF0C;&#x8A72;&#x6709;&#x591A;&#x597D;&#xFF1F;&#x300D;&#x5982;&#x4ECA;&#x7684;&#x4ED6;&#xFF0C;&#x6B63;&#x8E0F;&#x5728;&#x5BE6;&#x73FE;&#x5922;&#x60F3;&#x7684;&#x8DEF;&#x4E0A;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/2015taitung-bulareyaung</guid>
+<pubDate>Thu, 17 Dec 2015 15:57:36 +0800</pubDate>
+</item>
+<item>
+<title>&#x8A31;&#x8A69;&#x6137;&#xFF0F;&#x70BA;&#x4EC0;&#x9EBC;&#x3008;&#x6025;&#x8A3A;&#x4EBA;&#x751F;&#x3009;&#x5920;&#x7279;&#x5225;&#xFF1F;</title>
+<link>https://www.twreporter.org/a/newsgame-opinion</link>
+<description></description>
+<guid isPermaLink="true">https://www.twreporter.org/a/newsgame-opinion</guid>
+<pubDate>Thu, 17 Dec 2015 15:41:14 +0800</pubDate>
+</item>
+<item>
+<title>&#x53F0;&#x7063;&#x9CF3;&#x68A8;&#x80FD;&#x4E0D;&#x80FD;&#x6210;&#x70BA;&#x4E0B;&#x4E00;&#x500B;&#x7D10;&#x897F;&#x862D;&#x5947;&#x7570;&#x679C;&#xFF1F;</title>
+<link>https://www.twreporter.org/a/pineapple-trade</link>
+<description>&#x570B;&#x969B;&#x5E02;&#x5834;&#x662F;&#x56B4;&#x9177;&#x7684;&#x4FEE;&#x7F85;&#x5834;&#xFF0C;&#x6C92;&#x6709;&#x50E5;&#x5016;&#x3002;&#x5F9E;&#x6E90;&#x982D;&#x7684;&#x7530;&#x9593;&#x7BA1;&#x7406;&#xFF0C;&#x5230;&#x8FB2;&#x7522;&#x54C1;&#x7684;&#x6AA2;&#x75AB;&#xFF0C;&#x4EE5;&#x53CA;&#x672B;&#x7AEF;&#x7684;&#x54C1;&#x724C;&#x884C;&#x92B7;&#xFF0C;&#x4E00;&#x74B0;&#x6263;&#x4E00;&#x74B0;&#xFF0C;&#x53EA;&#x8981;&#x7A0D;&#x6709;&#x87BA;&#x7D72;&#x9B06;&#x6389;&#xFF0C;&#x640D;&#x5931;&#x7121;&#x5F9E;&#x8A08;&#x6578;&#xFF0C;&#x5982;&#x4ECA;&#x7684;&#x597D;&#x5149;&#x666F;&#x5C07;&#x53EA;&#x662F;&#x66C7;&#x82B1;&#x4E00;&#x73FE;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/pineapple-trade</guid>
+<pubDate>Thu, 17 Dec 2015 14:02:09 +0800</pubDate>
+</item>
+<item>
+<title>&#x9CF3;&#x68A8;&#x8FB2;&#x7684;&#x8CED;&#x5C40;&#xFF0C;&#x5169;&#x5834;&#x7E3D;&#x7D71;&#x5927;&#x9078;&#x5B9A;&#x8F38;&#x8D0F;</title>
+<link>https://www.twreporter.org/a/pineapple-taiwan</link>
+<description>&#x53F0;&#x7063;&#x9CF3;&#x68A8;&#x5916;&#x92B7;&#x81F3;&#x5404;&#x500B;&#x570B;&#x5BB6;&#x7684;&#x51FA;&#x53E3;&#x91CF;&#x7686;&#x5448;&#x73FE;&#x840E;&#x7E2E;&#xFF0C;&#x552F;&#x4E00;&#x5927;&#x5E45;&#x6210;&#x9577;&#x7684;&#x5E02;&#x5834;&#x662F;&#x4E2D;&#x570B;&#xFF0C;&#x800C;&#x4E14;95%&#x7684;&#x5916;&#x92B7;&#x91CF;&#x96C6;&#x4E2D;&#x5728;&#x4E2D;&#x570B;&#x5E02;&#x5834;&#x3002;&#x7576;&#x4E2D;&#xFF0C;&#x6709;&#x591A;&#x5C11;&#x662F;&#x653F;&#x6CBB;&#x9A45;&#x52D5;&#x7684;&#x8A02;&#x55AE;&#xFF1F;&#x9019;&#x5834;&#x8207;&#x5929;&#x5C0D;&#x8CED;&#x7684;&#x8CED;&#x5C40;&#xFF0C;&#x8FB2;&#x6C11;&#x771F;&#x80FD;&#x958B;&#x51FA;&#x8D0F;&#x5C40;&#x55CE;&#xFF1F;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/pineapple-taiwan</guid>
+<pubDate>Thu, 17 Dec 2015 12:24:20 +0800</pubDate>
+</item>
+<item>
+<title>&#x5433;&#x660E;&#x76CA;&#xFF0F;&#x81EA;&#x79C1;&#x7684;&#x9053;&#x8DEF;</title>
+<link>https://www.twreporter.org/a/hualien-wumingyi</link>
+<description>&#x4E03;&#x661F;&#x6F6D;&#x7576;&#x7136;&#x662F;&#x6574;&#x500B;&#x82B1;&#x84EE;&#x5C45;&#x6C11;&#x3001;&#x53F0;&#x7063;&#x6C11;&#x773E;&#x7684;&#x91CD;&#x8981;&#x516C;&#x5171;&#x8CA1;&#xFF0C;&#x5B83;&#x4E0D;&#x8A72;&#x88AB;&#x77ED;&#x66AB;&#x7684;&#x89C0;&#x5149;&#x5229;&#x76CA;&#x525D;&#x524A;&#x3002;&#x62D3;&#x5BEC;&#x9053;&#x8DEF;&#xFF0C;&#x7576;&#x7136;&#x80FD;&#x5BB9;&#x7D0D;&#x66F4;&#x591A;&#x7684;&#x9032;&#x5165;&#x4EBA;&#x53E3;&#x548C;&#x4EA4;&#x901A;&#x6D41;&#x91CF;&#xFF0C;&#x537B;&#x672A;&#x5FC5;&#x80FD;&#x89E3;&#x6C7A;&#x58C5;&#x585E;&#x7684;&#x554F;&#x984C;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/hualien-wumingyi</guid>
+<pubDate>Thu, 17 Dec 2015 10:43:02 +0800</pubDate>
+</item>
+<item>
+<title>&#x5831;&#x5C0E;&#x8005;&#x7DE8;&#x8F2F;&#x90E8;&#xFF0F;&#x70BA;&#x4EC0;&#x9EBC;&#x7528;&#x904A;&#x6232;&#x505A;&#x65B0;&#x805E; </title>
+<link>https://www.twreporter.org/a/opinion-newsgame</link>
+<description></description>
+<guid isPermaLink="true">https://www.twreporter.org/a/opinion-newsgame</guid>
+<pubDate>Wed, 16 Dec 2015 18:33:07 +0800</pubDate>
+</item>
+<item>
+<title>&#x535E;&#x4E2D;&#x4F69;&#xFF0F;&#x9109;&#x52C7;&#x5F0F;&#x6B63;&#x7FA9;&#x3000;&#x7F8E;&#x570B;&#x69CD;&#x679D;&#x7BA1;&#x5236;&#x554F;&#x984C;&#x8B8A;&#x5167;&#x8017;</title>
+<link>https://www.twreporter.org/a/torrent-gun-violence</link>
+<description>&#x7F8E;&#x570B;&#x7684;&#x69CD;&#x679D;&#x66B4;&#x529B;&#x554F;&#x984C;&#x4E4B;&#x56B4;&#x91CD;&#xFF0C;&#x5DF2;&#x7D93;&#x5230;&#x4E86;&#x6709;&#x54EA;&#x5929;&#x6C92;&#x6709;&#x767C;&#x751F;&#x5927;&#x898F;&#x6A21;&#x6B7B;&#x50B7;&#x7684;&#x69CD;&#x64CA;&#x4E8B;&#x4EF6;&#x624D;&#x662F;&#x65B0;&#x805E;&#x7684;&#x5730;&#x6B65;&#x3002;&#x4F46;&#x591A;&#x5E74;&#x4F86;&#x69CD;&#x679D;&#x7BA1;&#x5236;&#x554F;&#x984C;&#x4E00;&#x76F4;&#x7121;&#x6CD5;&#x7372;&#x5F97;&#x89E3;&#x6C7A;&#xFF0C;&#x4E00;&#x5207;&#x6E90;&#x81EA;&#x65BC;&#x7F8E;&#x570B;&#x793E;&#x6703;&#x7684;&#x9109;&#x52C7;&#x5F0F;&#x79C1;&#x5211;&#x6B63;&#x7FA9;&#xFF08;vigilante justice&#xFF09;&#x50B3;&#x7D71;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/torrent-gun-violence</guid>
+<pubDate>Wed, 16 Dec 2015 17:46:46 +0800</pubDate>
+</item>
+<item>
+<title>&#x6211;&#x4F4F;&#x5728;&#x5168;&#x570B;&#x6700;&#x5927;&#x6C61;&#x67D3;&#x5834;&#x5740;&#x65C1;</title>
+<link>https://www.twreporter.org/a/refinery-air-pollution </link>
+<description>&#x5F88;&#x5C11;&#x4EBA;&#x77E5;&#x9053;&#xFF0C;&#x4E2D;&#x6CB9;&#x9AD8;&#x96C4;&#x7149;&#x6CB9;&#x5EE0;&#x5DF2;&#x662F;&#x5168;&#x570B;&#x6700;&#x5927;&#x571F;&#x58E4;&#x6C61;&#x67D3;&#x63A7;&#x5236;&#x5834;&#x5740;&#x3002;&#x4E94;&#x8F15;&#x904B;&#x4F5C;&#x4E86;25&#x5E74;&#xFF0C;&#x9AD8;&#x96C4;&#x7149;&#x6CB9;&#x5EE0;&#x95DC;&#x5EE0;&#x5F8C;&#xFF0C;&#x4E2D;&#x6CB9;&#x537B;&#x5FC5;&#x9808;&#x8017;&#x8CBB;100&#x5104;&#x5143;&#x516C;&#x5E11;&#xFF0C;&#x9577;&#x9054;&#x4E8C;&#x3001;&#x4E09;&#x5341;&#x5E74;&#x6642;&#x9593;&#xFF0C;&#x624D;&#x53EF;&#x80FD;&#x5B8C;&#x6210;&#x6574;&#x6CBB;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/refinery-air-pollution </guid>
+<pubDate>Wed, 16 Dec 2015 15:03:56 +0800</pubDate>
+</item>
+<item>
+<title>&#x8209;&#x724C;&#x4EBA;&#x671D;&#x4E0D;&#x4FDD;&#x5915;&#x7684;&#x52DE;&#x52D5;&#x771F;&#x76F8;</title>
+<link>https://www.twreporter.org/a/2015-brand-life</link>
+<description>2015&#x5E74;7&#x6708;&#x4E2D;&#x65EC;&#xFF0C;&#x6211;&#x501F;&#x7528;&#x670B;&#x53CB;&#x7684;&#x8EAB;&#x5206;&#x8B49;&#x524D;&#x5F80;&#x806F;&#x5408;&#x6D3E;&#x5831;&#x793E;&#x61C9;&#x5FB5;&#x300C;&#x8209;&#x724C;&#x4EBA;&#x300D;&#x7684;&#x5DE5;&#x4F5C;&#xFF0C;&#x5C55;&#x958B;2&#x500B;&#x6708;&#x7684;&#x5316;&#x8EAB;&#x63A1;&#x8A2A;&#xFF0C;&#x7E3D;&#x5171;&#x6709;6&#x500B;&#x9031;&#x672B;&#x7AD9;&#x5728;&#x53F0;&#x5317;&#x5E02;&#x5167;&#x6E56;&#x5340;&#x5927;&#x6F64;&#x767C;&#x9644;&#x8FD1;&#x7684;&#x8DEF;&#x53E3;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/2015-brand-life</guid>
+<pubDate>Wed, 16 Dec 2015 13:45:19 +0800</pubDate>
+</item>
+<item>
+<title>&#x937E;&#x535A;&#x5B87;&#xFF1A;&#x6211;&#x4E0B;&#x4E00;&#x500B;&#x76EE;&#x6A19;&#x662F;&#x624B;&#x80FD;&#x78B0;&#x5230;&#x80A9;&#x8180;</title>
+<link>https://www.twreporter.org/a/20150627explosion-rehabilitation</link>
+<description>21&#x6B72;&#x7684;&#x937E;&#x535A;&#x5B87;&#x662F;&#x516B;&#x4ED9;&#x5875;&#x7206;&#x53D7;&#x5BB3;&#x8005;&#x4E4B;&#x4E00;&#xFF0C;&#x5168;&#x8EAB;70&#xFF05;&#x71D2;&#x50B7;&#x64F4;&#x53CA;&#x81C9;&#x53CA;&#x56DB;&#x80A2;&#x3002;&#x70BA;&#x91CD;&#x56DE;&#x751F;&#x6D3B;&#x6B63;&#x8ECC;&#xFF0C;&#x4ED6;&#x7A7F;&#x4E0A;&#x50C5;&#x9732;&#x51FA;&#x96D9;&#x773C;&#x548C;&#x5634;&#x5507;&#x7684;&#x58D3;&#x529B;&#x8863;&#xFF0C;&#x54AC;&#x7259;&#x5FA9;&#x5065;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/20150627explosion-rehabilitation</guid>
+<pubDate>Wed, 16 Dec 2015 11:58:05 +0800</pubDate>
+</item>
+<item>
+<title>&#x96F7;&#x5149;&#x590F;&#xFF1A;&#x4E8C;&#x5341;&#x5E74;&#x4F86;&#xFF0C;&#x6211;&#x8207;&#x5973;&#x5DEB;&#x5E97;&#x90FD;&#x6C92;&#x6539;&#x8B8A;</title>
+<link>https://www.twreporter.org/a/2015summer-lei</link>
+<description>&#x96F7;&#x5149;&#x590F;&#x6700;&#x8A18;&#x61B6;&#x6DF1;&#x523B;&#x7684;&#x9752;&#x6625;&#x767C;&#x751F;&#x5728;&#x6BCF;&#x5929;&#x591C;&#x665A;&#xFF0C;&#x70BA;&#x4E86;&#x4E0B;&#x73ED;&#x8D95;&#x5230;&#x5973;&#x5DEB;&#x5E97;&#x548C;&#x6CB3;&#x5CB8;&#x7559;&#x8A00;&#x5531;&#x6B4C;&#xFF0C;&#x5979;&#x8AAA;&#xFF1A;&#x300C;&#x6211;&#x767D;&#x5929;&#x63F9;&#x8457;&#x5927;&#x5927;&#x7684;&#x624B;&#x98A8;&#x7434;&#x5230;&#x96FB;&#x53F0;&#x4E0A;&#x73ED;&#xFF0C;&#x653E;&#x5728;&#x6211;&#x6905;&#x5B50;&#x5F8C;&#xFF0C;&#x540C;&#x4E8B;&#x5011;&#x7B11;&#x6211;&#x8AAA;&#x9019;&#x50CF;&#x662F;&#x91D1;&#x9580;&#x738B;&#x5728;&#x6D41;&#x6D6A;&#xFF0C;&#x5728;&#x8D70;&#x5531;&#x300D;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/2015summer-lei</guid>
+<pubDate>Wed, 16 Dec 2015 11:54:43 +0800</pubDate>
+</item>
+<item>
+<title>&#x5F35;&#x5A1F;&#x82AC;&#xFF0F;&#x53F8;&#x6CD5;&#x7684;&#x967D;&#x5149;&#x5F9E;&#x4F55;&#x800C;&#x4F86;&#xFF1F;</title>
+<link>https://www.twreporter.org/a/opinion-justice</link>
+<description>&#x53F8;&#x6CD5;&#x4E0D;&#x61C9;&#x8A72;&#x754F;&#x61FC;&#x967D;&#x5149;&#x3002;&#x53F8;&#x6CD5;&#x7684;&#x967D;&#x5149;&#x61C9;&#x8A72;&#x5F9E;&#x5373;&#x6642;&#x7B46;&#x9304;&#x505A;&#x8D77;&#xFF0C;&#x9019;&#x4E0D;&#x8D77;&#x773C;&#x7684;&#x901F;&#x8A18;&#x54E1;&#xFF0C;&#x6700;&#x5F8C;&#x6703;&#x767C;&#x63EE;&#x7684;&#x529F;&#x7528;&#x5C31;&#x8DDF;&#x6700;&#x803F;&#x76F4;&#x6700;&#x6709;&#x81BD;&#x8B58;&#x7684;&#x53F2;&#x5B98;&#x4E00;&#x6A23;&#xFF0C;&#x4ED6;&#x6703;&#x5BEB;&#xFF1A;&#x300C;&#x5D14;&#x677C;&#x5F12;&#x5176;&#x541B;&#x300D;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/opinion-justice</guid>
+<pubDate>Wed, 16 Dec 2015 11:48:11 +0800</pubDate>
+</item>
+<item>
+<title>&#x5F35;&#x7FE0;&#x5BB9;&#xFF0F;&#x4E0D;&#x5BB9;&#x5FFD;&#x8996;&#x7684;&#x65CF;&#x7FA4;&#x504F;&#x898B;</title>
+<link>https://www.twreporter.org/a/chang-groups-bias</link>
+<description>&#x7DEC;&#x7538;&#x5927;&#x9078;&#x7531;&#x7FC1;&#x5C71;&#x8607;&#x59EC;&#x6240;&#x9818;&#x5C0E;&#x7684;&#x653F;&#x9EE8;&#x5927;&#x52DD;&#xFF0C;&#x7DEC;&#x7538;&#x9032;&#x884C;&#x9996;&#x6B21;&#x653F;&#x9EE8;&#x8F2A;&#x66FF;&#x3002;&#x4F46;&#x5728;&#x4E00;&#x7247;&#x6B61;&#x547C;&#x8072;&#x4E2D;&#xFF0C;&#x7DEC;&#x7538;&#x897F;&#x90E8;&#x537B;&#x6709;&#x903E;&#x767E;&#x842C;&#x7A46;&#x65AF;&#x6797;&#x88AB;&#x525D;&#x596A;&#x6295;&#x7968;&#x6B0A;&#x3001;&#x95DC;&#x5728;&#x96C6;&#x4E2D;&#x71DF;&#x88E1;&#xFF0C;&#x53EB;&#x5929;&#x4E0D;&#x61C9;&#xFF0C;&#x53EB;&#x5730;&#x4E0D;&#x805E;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/chang-groups-bias</guid>
+<pubDate>Wed, 16 Dec 2015 05:19:14 +0800</pubDate>
+</item>
+<item>
+<title>&#x9EC3;&#x54F2;&#x658C;&#xFF0F;TPP&#x597D;&#x5403;&#x55CE;&#xFF1F;</title>
+<link>https://www.twreporter.org/a/opinion-tpp</link>
+<description>&#x5728;&#x9019;&#x5834;&#x7A81;&#x68AF;&#x6ED1;&#x7A3D;&#x3001;&#x98A8;&#x6CE2;&#x4E0D;&#x65B7;&#x3001;&#x9A5A;&#x559C;&#x4E0D;&#x8DB3;&#x7684;&#x7E3D;&#x7D71;&#x9078;&#x6230;&#x88E1;&#xFF0C;&#x8521;&#x82F1;&#x6587;&#x53CA;&#x6731;&#x7ACB;&#x502B;&#x7121;&#x4E0D;&#x4EE5;&#x300C;&#x63A8;&#x52D5;&#x52A0;&#x5165;TPP&#x300D;&#x70BA;&#x91CD;&#x8981;&#x653F;&#x898B;&#xFF0C;&#x96D9;&#x65B9;&#x90FD;&#x5C07;&#x64E0;&#x4E0A;&#x9019;&#x5F35;&#x724C;&#x684C;&#xFF0C;&#x8996;&#x70BA;&#x53F0;&#x7063;&#x7D93;&#x6FDF;&#x7684;&#x842C;&#x7528;&#x5E38;&#x5099;&#x7E8C;&#x547D;&#x4E39;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/opinion-tpp</guid>
+<pubDate>Wed, 16 Dec 2015 05:18:03 +0800</pubDate>
+</item>
+<item>
+<title>&#x80E1;&#x6155;&#x60C5;&#xFF0F;&#x611B;&#x4F60;&#x7684;&#x602A;&#x7269;</title>
+<link>https://www.twreporter.org/a/muhchyng-climate</link>
+<description>&#x5730;&#x7403;&#x4E0D;&#x518D;&#x7F8E;&#x9E97;&#xFF0C;&#x5B83;&#x5DF2;&#x6210;&#x70BA;&#x4E00;&#x982D;&#x53CD;&#x566C;&#x6211;&#x5011;&#x7684;&#x602A;&#x7269;&#x3002;&#x4F46;&#x6211;&#x5011;&#x5FC5;&#x9808;&#x611B;&#x9019;&#x982D;&#x602A;&#x7269;&#xFF0C;&#x4E0D;&#x5982;&#x6B64;&#xFF0C;&#x5275;&#x50B7;&#x7121;&#x6709;&#x610F;&#x7FA9;&#x3002;&#x662F;&#x7684;&#xFF0C;&#x5FC5;&#x9808;&#x5982;&#x6B64;&#xFF1A;&#x4E0D;&#x81EA;&#x6190;&#x3001;&#x4E0D;&#x96B1;&#x779E;&#xFF0C;&#x611B;&#x4F60;&#x7684;&#x602A;&#x7269;&#xFF0C;&#x5171;&#x540C;&#x751F;&#x6D3B;&#x624D;&#x6709;&#x5FAE;&#x8584;&#x7684;&#xFF0C;&#x5FAE;&#x8584;&#x7684;&#x4E00;&#x9EDE;&#x57FA;&#x790E;&#x3002;  </description>
+<guid isPermaLink="true">https://www.twreporter.org/a/muhchyng-climate</guid>
+<pubDate>Wed, 16 Dec 2015 05:16:58 +0800</pubDate>
+</item>
+<item>
+<title>&#x6025;&#x8A3A;&#x5BA4;&#x5D29;&#x58DE;&#x3000;&#x4F60;&#x5FC5;&#x9808;&#x77E5;&#x9053;&#x7684;&#x53F0;&#x7063;&#x91AB;&#x7642;&#x56F0;&#x5883;</title>
+<link>https://www.twreporter.org/a/emergency-content</link>
+<description>&#x300C;&#x5982;&#x679C;&#x4F60;&#x6C92;&#x770B;&#x904E;&#x96E3;&#x6C11;&#x71DF;&#xFF0C;&#x90A3;&#x5C31;&#x4F86;&#x6025;&#x8A3A;&#x5BA4;&#x8D70;&#x4E00;&#x906D;&#x5427;&#x3002;&#x300D;&#x516B;&#x4ED9;&#x5875;&#x7206;&#x5DF2;&#x8FD1;&#x534A;&#x5E74;&#xFF0C;&#x7576;&#x6642;&#x96FB;&#x8996;&#x756B;&#x9762;&#x760B;&#x72C2;&#x8F49;&#x9001;&#x6025;&#x8A3A;&#x5BA4;&#x7684;&#x756B;&#x9762;&#xFF0D;&#x64C1;&#x64E0;&#x7684;&#x75C5;&#x5E8A;&#x4E0A;&#x3001;&#x54C0;&#x865F;&#x7684;&#x75C5;&#x4EBA;&#x3001;&#x5954;&#x8DD1;&#x7684;&#x91AB;&#x8B77;&#x4EBA;&#x54E1;&#x3001;&#x5FC3;&#x6025;&#x5982;&#x711A;&#x7684;&#x5BB6;&#x5C6C;&#x5011;&#xFF0C;&#x5B9B;&#x5982;&#x96E3;&#x6C11;&#x71DF;&#x822C;&#x7684;&#x666F;&#x8C61;&#x5F77;&#x5F7F;&#x9084;&#x6B77;&#x6B77;&#x5728;&#x76EE;&#xFF0C;&#x4F60;&#x9084;&#x8A18;&#x5F97;&#x55CE;&#xFF1F;  </description>
+<guid isPermaLink="true">https://www.twreporter.org/a/emergency-content</guid>
+<pubDate>Tue, 15 Dec 2015 21:24:24 +0800</pubDate>
+</item>
+<item>
+<title>&#x937E;&#x5B9C;&#x6770;&#xFF0F;&#x7D00;&#x5BE6;&#x651D;&#x5F71;&#x662F;&#x6211;&#x5011;&#x9019;&#x6642;&#x4EE3;&#x7684;&#x65B0;&#x4F7F;&#x547D;</title>
+<link>https://www.twreporter.org/a/documentary-photo-mission</link>
+<description>&#x53F0;&#x7063;&#x793E;&#x6703;&#x9700;&#x8981;&#x3001;&#x4E5F;&#x6B63;&#x5728;&#x9032;&#x5165;&#x53E6;&#x4E00;&#x6B21;&#x7684;&#x793E;&#x6703;&#x555F;&#x8499;&#xFF1B;&#x9019;&#x4E0D;&#x50C5;&#x662F;&#x4E00;&#x9805;&#x793E;&#x6703;&#x904B;&#x52D5;&#xFF0C;&#x4E5F;&#x662F;&#x4E00;&#x9805;&#x5A92;&#x9AD4;&#x6539;&#x9769;&#x904B;&#x52D5;&#x3002;&#x9700;&#x8981;&#x66F4;&#x591A;&#x6709;&#x5FD7;&#x4E4B;&#x58EB;&#x6295;&#x5165;&#xFF0C;&#x8B93;&#x65B0;&#x805E;&#x5831;&#x5C0E;&#x8005;&#x91CD;&#x7372;&#x5C0A;&#x56B4;&#xFF0C;&#x4E5F;&#x91CD;&#x65B0;&#x62FE;&#x8D77;&#x555F;&#x8499;&#x516C;&#x773E;&#x3001;&#x63ED;&#x767C;&#x968E;&#x7D1A;&#x525D;&#x524A;&#x8207;&#x9ED1;&#x6697;&#x7684;&#x4EFB;&#x52D9;&#x3002;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/documentary-photo-mission</guid>
+<pubDate>Tue, 15 Dec 2015 15:48:48 +0800</pubDate>
+</item>
+<item>
+<title>&#x6025;&#x8A3A;&#x88AB;&#x7576;&#x5065;&#x8A3A;&#x4F7F;&#x7528;&#x3000;&#x7206;&#x809D;&#x6210;&#x4E86;&#x5E38;&#x614B;</title>
+<link>https://www.twreporter.org/a/daily-emergency</link>
+<description>&#x5728;&#x6025;&#x8A3A;&#x4EBA;&#x529B;&#x8D8A;&#x4F86;&#x8D8A;&#x4E0D;&#x8DB3;&#x7684;&#x60C5;&#x6CC1;&#x4E0B;&#xFF0C;&#x6216;&#x8A31;&#x6211;&#x5011;&#x8A72;&#x5F9E;&#x6025;&#x8A3A;&#x91AB;&#x5E2B;&#x7684;&#x65E5;&#x5E38;&#x751F;&#x6D3B;&#xFF0C;&#x8A8D;&#x771F;&#x5BE9;&#x8996;&#xFF0C;&#x662F;&#x4EC0;&#x9EBC;&#x539F;&#x56E0;&#x8B93;&#x4ED6;&#x5011;&#x4E0D;&#x9858;&#x610F;&#x524D;&#x5F80;&#x7B2C;&#x4E00;&#x7DDA;&#xFF1F;&#x7576;&#x6211;&#x5011;&#x5C11;&#x4E86;&#x9019;&#x4E9B;&#x7B2C;&#x4E00;&#x7DDA;&#x7684;&#x91AB;&#x7642;&#x52C7;&#x58EB;&#xFF0C;&#x6211;&#x5011;&#x7684;&#x91AB;&#x7642;&#x74B0;&#x5883;&#x6703;&#x8B8A;&#x6210;&#x4EC0;&#x9EBC;&#x6A23;&#x5B50;&#x5462;&#xFF1F;</description>
+<guid isPermaLink="true">https://www.twreporter.org/a/daily-emergency</guid>
+<pubDate>Tue, 15 Dec 2015 14:59:38 +0800</pubDate>
+</item>
+</channel>
 </rss>
